@@ -5,8 +5,11 @@
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/recepbalibey) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/recepbalibey/) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:recepbalibey@gmail.com)
  
-I am Recep. I graduated from Electrical and Electronics Engineering and completed my master's degree in ICT Cybersystems in Italy, Padova. My thesis was Network Intrusion Systems with Machine Learning.  
-I have learned C as my first programming language in 2016 and still learning Python and others for fun. From my bachelor's degree I experienced many cards such as Arduino, STM32, Raspberry, FPGA, PLC. During my master's degree, I experienced Linux, Networking fundametals, Databases, Web Applications, Data Science Applications, Ethical Hacking Subjects. 
+I am Recep. I graduated with Electrical and Electronics Engineering and completed my master's degree in ICT Cybersystems.
+
+
+I learned C as my first programming language in 2016 and still learning Python and others for fun. With my bachelor's degree, I experienced many cards such as Arduino, STM32, Raspberry, FPGA, and PLC. During my master's degree, I experienced Linux, Networking fundamentals, Databases, Web Applications, Data Science Applications, and Ethical Hacking Subjects.
+
 
 🌱 I am currently learning & improving myself in Cybersecurity field.
 
